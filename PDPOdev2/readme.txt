@@ -1,1 +1,0 @@
-Kisiler.txt ve Sayilar.txt'i doc klasörünün içine atmanız önemle rica olunur.
